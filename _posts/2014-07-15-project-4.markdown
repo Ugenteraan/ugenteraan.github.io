@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2018-11-01
+img: petronas.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: November 2018 to December 2018
+title: Helmet and Vest Detection on Construction Workers
+client: Petronas Research Sdn Bhd
+category: Deep Learning
+description:  <br> Image by <a href="https://www.freepik.com/free-photo/person-using-ai-tool-job_60357564.htm#page=10&query=helmet%20and%20vest%20construction%20futuristic&position=16&from_view=search&track=ais">Freepik</a>
 ---
