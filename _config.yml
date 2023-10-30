@@ -52,7 +52,7 @@ address:
   - line: Cyberjaya, Selangor
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. </br> '
 
 # Build settings
 markdown: kramdown
