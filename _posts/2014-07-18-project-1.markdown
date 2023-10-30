@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-09-01
-img: medical.png
+img: beneufit.png
 alt: image-alt
 title: Cow Milk Allergy Detection on Infants
 project-date: September 2022 to June 2023
