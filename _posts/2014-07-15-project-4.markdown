@@ -8,5 +8,5 @@ project-date: November 2018 to December 2018
 title: Helmet and Vest Detection on Construction Workers
 client: Petronas Research Sdn Bhd
 category: Deep Learning
-description:  <br> Image by <a href="https://www.freepik.com/free-photo/person-using-ai-tool-job_60357564.htm#page=10&query=helmet%20and%20vest%20construction%20futuristic&position=16&from_view=search&track=ais">Freepik</a>
+description: This endeavor was purely undertaken at the prototype level, necessitating a compressed timeline for its execution. Given the nature of the project, our primary focus was on constructing a proof of concept, even if it entailed compromising the algorithm's performance. The project was implemented and delivered seamlessly, within the designated timeframe. <br><br> Image by <a href="https://www.freepik.com/free-photo/person-using-ai-tool-job_60357564.htm#page=10&query=helmet%20and%20vest%20construction%20futuristic&position=16&from_view=search&track=ais">Freepik</a>
 ---
