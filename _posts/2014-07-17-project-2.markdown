@@ -8,19 +8,8 @@ title: Self Driving Car Prototype
 project-date: February 2019 to April 2019
 client: Nano Malaysia
 category: Freelance
-description: I had the opportunity to contribute to an innovative project centered around the development of a self-driving car prototype in collaboration with the esteemed team known as Enermag. Within this project, my primary responsibility encompassed overseeing the computer vision tasks. Notably, during this time, I had the privilege of gaining hands-on experience by being inside a self-driving car, fine tuning the lane and object detection algorithms that were under my purview.
-One of the notable insights gleaned from this project was the practical application of the Kalman Filter algorithm. This algorithm proved invaluable in mitigating the challenges posed by sudden spikes in readings from the lane detection algorithm, which in turn led to abrupt steering angle adjustments within short timeframes. By integrating the Kalman Filter algorithm, we were able to significantly enhance the smoothness and stability of the car's steering based on the outputs of the lane detection system.
+description: asdasdas
 ---
 
-```
-layout: default
-modal-id: 2
-date: 2019-02-01
-img: cake.png
-alt: image-alt
-
-
-
-
-
-```
+I had the opportunity to contribute to an innovative project centered around the development of a self-driving car prototype in collaboration with the esteemed team known as Enermag. Within this project, my primary responsibility encompassed overseeing the computer vision tasks. Notably, during this time, I had the privilege of gaining hands-on experience by being inside a self-driving car, fine tuning the lane and object detection algorithms that were under my purview.
+One of the notable insights gleaned from this project was the practical application of the Kalman Filter algorithm. This algorithm proved invaluable in mitigating the challenges posed by sudden spikes in readings from the lane detection algorithm, which in turn led to abrupt steering angle adjustments within short timeframes. By integrating the Kalman Filter algorithm, we were able to significantly enhance the smoothness and stability of the car's steering based on the outputs of the lane detection system.
