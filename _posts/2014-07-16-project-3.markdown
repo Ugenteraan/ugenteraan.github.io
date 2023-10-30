@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2021-02-01
-img: wiseai.png
+img: wise-ai.png
 alt: image-alt
+title: Frontal Face Detection
 project-date: February 2021 to March 2021
 client: WiseAI Sdn. Bhd.
 category: Deep Learning
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description:
 ---
