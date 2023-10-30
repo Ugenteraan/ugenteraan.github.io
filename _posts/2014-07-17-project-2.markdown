@@ -4,6 +4,7 @@ modal-id: 2
 date: 2019-02-01
 img: selfdriving.png
 alt: image-alt
+title: Self-Driving Car Prototype
 project-date: February 2019 - April 2019
 client: Nano Malaysia
 category: Freelance
