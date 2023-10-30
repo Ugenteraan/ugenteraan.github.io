@@ -5,8 +5,8 @@ date: 2021-02-01
 img: wise-ai.png
 alt: image-alt
 title: Frontal Face Detection
-project-date: February 2021 to March 2021
+project-date: February 2021 to April 2021
 client: WiseAI Sdn. Bhd.
 category: Deep Learning
-description:
+description: I worked as a freelancer for a company named WiseAI to implement a front-end solution to detect the orientation of human faces. The purpose of this project is to ensure that the input faces are directly facing the camera. The main challenge in this project was that the entire algorithm had to be implemented on the client-side rather than the conventional server-side for maximal performance. Although I converted the PyTorch's model codes to Onnx.js, there were a lot of limitations in the conversion thus requiring me to write some of the mathematical functions from scratch using pure Javascript. A lot of tests were conducted to test the correctness and the speed of the algorithm. The project was concluded successfully within the given time frame.
 ---
