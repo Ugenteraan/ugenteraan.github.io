@@ -5,8 +5,8 @@ date: 2022-09-01
 img: medical.png
 alt: image-alt
 title: Cow Milk Allergy Detection on Infants
-project-date: September 2022
+project-date: September 2022 to June 2023
 client: Beneufit, Inc.
 category: Deep Learning
-description:
+description: I had the opportunity to collaborate with a U.S. client, Beneufit (https://beneufit.com/about-us), on a notable project focused on the implementation of a comprehensive solution for detecting Cow Milk Allergy (CMA) among infants. This endeavor involved the proficient application of diverse machine learning techniques. Throughout the course of this engagement, I closely collaborated with esteemed pediatricians of high repute, undertaking in-depth analysis, fine-tuning, and enhancement of the machine learning models. I am delighted to report that the project was concluded successfully, resulting in a letter of recommendation being graciously provided in acknowledgment of my contributions. If you are interested in perusing the aforementioned letter of recommendation, please feel free to contact me for further information.
 ---
