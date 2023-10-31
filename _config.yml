@@ -26,8 +26,8 @@ disqus_shortname: ugen
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: f89e62 #80B3FF
-  primary-rgb: "1,35,62" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary-rgb: "181, 77, 8" #"128,179,255"
+  secondary: f89e62 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
