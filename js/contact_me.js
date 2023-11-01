@@ -18,11 +18,10 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://formspree.io/f/xbjvbjnj",
                 type: "POST",
                 data: {
                     name: name,
-                    phone: phone,
                     email: email,
                     message: message
                 },
