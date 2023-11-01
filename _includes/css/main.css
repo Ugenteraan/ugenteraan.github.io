@@ -21,7 +21,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 0;
+    outline: 1;
     color: #41b4f6;
 }
 
